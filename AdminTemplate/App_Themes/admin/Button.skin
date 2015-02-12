@@ -1,0 +1,3 @@
+﻿<asp:Button SkinId="defaultBtn" runat="server" CssClass="btn"  onmouseout ="this.className='btn';" onmouseover ="this.className='btn-hover';" />
+<asp:Button SkinId="hilightBtn" runat="server" CssClass="btnBlue-default" onmouseout ="this.className='btnBlue';" onmouseover ="this.className='btnBlue-hover';" />
+<asp:Button runat="server" CssClass="ui-button ui-button-text-only ui-widget ui-state-default ui-corner-all" onmouseout="this.className='ui-button ui-button-text-only ui-widget ui-state-default ui-corner-all';" onmouseover="this.className='ui-button ui-button-text-only ui-widget ui-state-default ui-corner-all ui-state-hover ';"/>
